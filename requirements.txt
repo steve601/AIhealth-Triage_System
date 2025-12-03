@@ -1,0 +1,15 @@
+langgraph
+langchain
+pydantic
+streamlit
+langchain_community
+langchain_groq
+dotenv
+langchain_huggingface
+sentence-transformers
+chromadb
+pypdf
+PyPDF2
+HuggingFaceEmbeddings
+faiss-cpu
+langchain_openai
