@@ -34,11 +34,11 @@ Easily extendable with new nodes, rules or conditions.
 ---
 
 ## Sample test
-![Screenshot](imgs\health.PNG)
+![Screenshot](imgs/health.PNG)
 
-![Screenshot](imgs\health1.PNG)
+![Screenshot](imgs/health1.PNG)
 
-![Screenshot](imgs\health2.PNG)
+![Screenshot](imgs/health2.PNG)
 
-![Screenshot](imgs\health3.PNG)
+![Screenshot](imgs/health3.PNG)
 
